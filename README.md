@@ -15,6 +15,8 @@ You don't need to make many different components, but your UI should have the fo
     - When the "GEAR DOWN" button is clicked, and the engine is started, the current gear text should decrement by 1.
 - "ACCELERATE" button
     - When the "ACCLERATE" button is clicked, and the engine is started and in a non-zero gear, the speed text should increment according to the current gear.
+- "BRAKE" button
+    - When the "BRAKE" button is clicked and the engine is started and in a non-zero gear, the speed text should decrement according to the current gear.
 
 
 Your reducer function should be able to do the following actions:

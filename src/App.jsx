@@ -20,7 +20,7 @@ export default function App() {
           ...previousState,
           engineStarted: !previousState.engineStarted,
         }
-      case 'EngineStopp ed':
+      case 'EngineStopped':
         return {
           ...previousState,
           gear: 0,

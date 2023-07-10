@@ -104,8 +104,6 @@ export default function App() {
       <div className="carStatus">
         <p>The current gear is:<span>{van.gear > 0 ? van.gear : 'no gear'}</span></p>
         <p>The current spead is:<span>{van.speed > 0 ? van.speed : 0}</span></p>
-        <div className="operateCar">
-        </div>
         {/* 
           "Gear up" button
           When the button is clicked, and the engine is started, the current gear text should increment by 1 (max 5).

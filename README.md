@@ -1,4 +1,4 @@
-# Exercise :cartwheeling: useReducer 
+# Exercise :cartwheeling: :weight_lifting:useReducer 
 
 ## Lets build a little van using useReducer
 
@@ -41,7 +41,7 @@ Your reducer function should be able to do the following actions:
     - if gear is 0, has no effect
     - changes van speed so that it is closer to 0
 
-Show the current speed and gear of the van to the user. Show also buttons for the different actions
+Show the current speed and gear of the van to the user. Show also buttons for the different actions.
 
-**BONUS CHALLENGE :weight_lifting: Show distance travelled**
+
 

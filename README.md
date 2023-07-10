@@ -18,6 +18,7 @@ You don't need to make many different components, but your UI should have the fo
 - "BRAKE" button
     - When the "BRAKE" button is clicked and the engine is started and in a non-zero gear, the speed text should decrement according to the current gear.
 
+---
 
 Your reducer function should be able to do the following actions:
 
